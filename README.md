@@ -4,4 +4,4 @@ Script to be run on local machine to check plaintext password vs a wordlist of k
 
 ## updates
 10/17/20
-Script is functioning in current iteration, should be expanded upon in the future?
+Script is functioning in current iteration.
